@@ -107,3 +107,4 @@ Formulae for half:
 
 * "Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking" https://arxiv.org/pdf/1804.06826.pdf
 * "Accelerating Reduction and Scan Using Tensor Core Units" https://arxiv.org/pdf/1811.09736.pdf
+* "Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply" https://www.cse.ust.hk/~weiwa/papers/yan-ipdps20.pdf
